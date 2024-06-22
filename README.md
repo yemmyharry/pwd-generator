@@ -1,8 +1,25 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Random Password Generator
 
-Currently, two official plugins are available:
+## Description
+A Random Password Generator that creates passwords of specified length and strength, including uppercase letters, lowercase letters, numbers, and special characters.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   cd pwd-generator
+   
+
+## Running the Project
+1. Start the development server:
+   ```bash
+   npm run dev
+   ```
+2. Open your browser and navigate to `http://localhost:3000`.
+
+## Running Tests
+1. To run the tests:
+   ```bash
+   npm run test
+   ```
