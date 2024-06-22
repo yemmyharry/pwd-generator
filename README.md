@@ -16,10 +16,18 @@ A Random Password Generator that creates passwords of specified length and stren
    ```bash
    npm run dev
    ```
-2. Open your browser and navigate to `http://localhost:3000`.
+2. Open your browser and navigate to `http://localhost:3000`. 
 
 ## Running Tests
 1. To run the tests:
    ```bash
    npm run test
    ```
+## Deployment on Vercel
+   ```bash
+   This project is also hosted on Vercel. You can access it at: https://pwd-generator-weld.vercel.app/
+   ```
+
+
+
+
